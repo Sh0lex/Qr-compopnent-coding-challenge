@@ -1,0 +1,56 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+    height: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+div img {
+    width: 93%;
+    height: 58.33%;
+    border-radius: 25px;
+    padding: 15px 15px 0px 15px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+}
+
+.Qr {
+    background-color: white;
+    width: 25%;
+    height: 69%;
+    border: 2px solid white;
+    border-radius: 1.5rem;
+    font-size: 19px;
+    font-weight: 400;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+p {
+    padding: 0px 23px;
+}
+
+#Bold {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    font-family: 'Outfit', sans-serif;
+    margin-bottom: 0px;
+}
+
+#normal {
+    text-align: center;
+    padding: 0px 25px 0px 25px;
+
+}
+
+.attribution {
+    margin-top: 30px;
+}
