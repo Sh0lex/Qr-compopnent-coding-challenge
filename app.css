@@ -20,10 +20,10 @@ div img {
 .Qr {
     background-color: white;
     width: 25%;
-    height: 69%;
+    height: 65%;
     border: 2px solid white;
     border-radius: 1.5rem;
-    font-size: 19px;
+    font-size: 15px;
     font-weight: 400;
     display: flex;
     flex-direction: row;
@@ -39,7 +39,7 @@ p {
 
 #Bold {
     text-align: center;
-    font-size: 26px;
+    font-size: 22px;
     font-weight: 700;
     font-family: 'Outfit', sans-serif;
     margin-bottom: 0px;
