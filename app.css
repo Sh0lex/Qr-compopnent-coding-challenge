@@ -12,7 +12,6 @@ body {
 
     min-width: 375px;
 
-    flex-shrink: 2;
 
 }
 
@@ -38,6 +37,7 @@ div img {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    flex-shrink: 2;
 
 }
 
